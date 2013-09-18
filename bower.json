@@ -16,5 +16,8 @@
   "dependencies": {
     "x-tag-core": "*",
     "brick-common": "*"
+  },
+  "devDependencies": {
+    "x-tag-toggle": "*"
   }
 }

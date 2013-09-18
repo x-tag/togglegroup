@@ -4,7 +4,7 @@
 	"version": "0.1.0",
 	"author": "Leon Zhang",
 	"description": "Togglegroups are used to display a set of clickable option buttons, which can be either toggle in an independent or mutually exclusive manner.",
-	"demo": "demo/index.html",
+	"demo": "demo/testpage.html",
 	"categories": [
         "ui"
     ],
@@ -25,7 +25,7 @@
 		"events": {},
 		"methods": {},
 		"getters": {
-			"options": "Returns an array of the option button DOM elements in this togglegroup"	
+			"options": "Returns an array of the option button DOM elements in this togglegroup"
 		},
 		"setters": {}
 	}
