@@ -1,13 +1,13 @@
 {
 	"name": "Togglegroup",
 	"tagName": "x-togglegroup",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "Leon Zhang",
 	"description": "Togglegroups are used to display a set of clickable option buttons, which can be either toggle in an independent or mutually exclusive manner.",
 	"demo": "demo/testpage.html",
 	"categories": [
-        "ui"
-    ],
+		"ui"
+	],
 	"compatibility": {
 		"firefox": 5,
 		"chrome": 4,

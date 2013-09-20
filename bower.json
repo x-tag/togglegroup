@@ -1,7 +1,7 @@
 {
   "name": "x-tag-togglegroup",
   "description": "A set of associated toggle options, represented as a bar of buttons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "web-components",
     "button",
@@ -11,7 +11,8 @@
   ],
   "main": [
     "src/togglegroup.js",
-    "src/togglegroup.css"
+    "src/togglegroup.css",
+    "src/togglegroup.styl"
   ],
   "dependencies": {
     "x-tag-core": "*",
