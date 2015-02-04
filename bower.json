@@ -15,8 +15,7 @@
     "src/togglegroup.styl"
   ],
   "dependencies": {
-    "x-tag-core": "*",
-    "brick-common": "*",
+    "x-tag-core": "*"
     "x-tag-toggle": "*"
   }
 }
